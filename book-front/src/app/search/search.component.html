@@ -1,0 +1,64 @@
+
+
+    <div class="search-page">
+        <div id="title">
+            <h1>Welcome to Book Tracker</h1>
+            <h3>Please search for a book or author here</h3>
+        </div>
+    <section>
+       
+        <input class = "search"[(ngModel)]= "searchAuthor" type="text" placeholder="Enter Author Name"/>
+        <input class ="button"(click)="findAuthor()" type="submit" value="Search"/>
+        <section *ngIf="authors">
+        </section>
+        <div *ngFor="let author of authors">
+            <ng-container *ngIf="author.authorName === searchAuthor">
+                <br>
+                <br>
+                <br>
+                <br>
+              <div class="book">  
+                <h1>Your books by {{author.authorName}}</h1>
+              </div>  
+              <div class="book-post">
+                    <ul>
+                        <br>
+                        <h3>Title: {{author.bookList[0].title}}</h3>
+                        <p>ISBN: {{author.bookList[0].isbn}}</p>
+                        <p>Year Published: {{author.bookList[0].yearPublished}}</p>
+                        <p>In Stock: {{author.bookList[0].inStock}}</p>
+                        <br>
+                    </ul>
+                </div> 
+            </ng-container>
+             
+        </div>
+    </section>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+
+    </div>
+    
+
+ 
+
+

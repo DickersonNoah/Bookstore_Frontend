@@ -1,0 +1,42 @@
+
+  .search-page{
+      color: white;
+      background-color: transparent;
+      padding: 70px 0;
+      border: 3px;
+      text-align: center;
+      width: 50%;
+      margin-left: 270px; 
+  }
+  #title{
+      background-color: black;
+      
+  } 
+  .authorName{
+      text-align: center;
+  }
+  .book{
+      
+      background-color: rgb(214, 210, 210);
+      color: black;
+     
+      
+      text-align: center;
+  }
+  .book-post{
+      color: black;
+      background-color: whitesmoke;
+      text-align:justify;
+      
+     
+      
+  }
+ .search{
+     height: 30px;
+     
+ }
+  
+ .button{
+     height: 36px;
+     width: 65px;
+ }
