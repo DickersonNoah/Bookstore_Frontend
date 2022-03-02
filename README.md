@@ -47,8 +47,14 @@ JavaScript and TypeScript
 
 <a name = "Resources"></a>
 ## 5. Resources
-https://www.w3schools.com/
-https://www.youtube.com/
+1.  https://www.w3schools.com/
+2.  https://www.youtube.com/
+3. 
+4. 
+5. 
+6.
+
+
 
 <a name = "WinsandStruggles"></a>
 ## 6. Wins and Struggles
