@@ -13,7 +13,8 @@
 
 <a name="desc"></a>
 ## 1. Description
-
+  This is the "front-end" portion of my capstone project for General Assembly Java immersive program. Though the back-end portion has full Crud end points, the front-end currently only implements the Get. The user will be able to type in the search bar an author they currently have in the data base, and the program will return the books and their descriptions. It is a fairly simple webpage but I plan to build it out further to implement things like add author/book update and delete, along with a sign in method and all the things that come with that. 
+  
 <a name="plann"></a>
 ## 2. Planning
 ![User Stories for book app](https://user-images.githubusercontent.com/87401362/156385278-b917907c-d581-467a-a792-31ec548ea7f5.png)
@@ -46,6 +47,8 @@ JavaScript and TypeScript
 
 <a name = "Resources"></a>
 ## 5. Resources
+https://www.w3schools.com/
+https://www.youtube.com/
 
 <a name = "WinsandStruggles"></a>
-## 6. Wins and Struggles(in their own words)
+## 6. Wins and Struggles
