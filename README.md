@@ -16,9 +16,16 @@
 
 <a name="plann"></a>
 ## 2. Planning
-
+![User Stories for book app](https://user-images.githubusercontent.com/87401362/156385278-b917907c-d581-467a-a792-31ec548ea7f5.png)
+User Stories
 <a name="WireFrame"></a>
 ## 3. Wireframes
+![Screen Shot 2022-03-02 at 9 51 21 AM](https://user-images.githubusercontent.com/87401362/156385624-4d0f8c60-a5b6-4be3-a4e6-aadd3ffcc296.png)
+
+![Screen Shot 2022-03-02 at 9 51 34 AM](https://user-images.githubusercontent.com/87401362/156385710-5f26bf55-d483-4ee0-ad6e-223a3cc6be3b.png)
+
+![Screen Shot 2022-03-02 at 9 51 44 AM](https://user-images.githubusercontent.com/87401362/156385732-410b4820-4989-4d24-b031-9ac0ba553e34.png)
+
 
 <a name ="Technologies-Used"></a>
 ## 4. Technologies Used
