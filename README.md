@@ -60,3 +60,7 @@ Draw.io
 
 <a name = "WinsandStruggles"></a>
 ## 6. Wins and Struggles
+
+Wins - Its a decent looking website.
+
+Struggles - Routing and accessing the booklist from the array of objects.
