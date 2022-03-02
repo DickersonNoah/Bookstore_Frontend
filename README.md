@@ -44,6 +44,8 @@ CSS
 ![Screen Shot 2022-02-22 at 9 26 58 AM](https://user-images.githubusercontent.com/87401362/156384804-29d9141a-9420-44a8-82b4-b3299d865e01.png)
 JavaScript and TypeScript
 
+![Screen Shot 2022-03-02 at 11 04 54 AM](https://user-images.githubusercontent.com/87401362/156400017-1a655668-6da6-42d7-9ca9-4d0d1be24415.png)
+Draw.io
 
 <a name = "Resources"></a>
 ## 5. Resources
