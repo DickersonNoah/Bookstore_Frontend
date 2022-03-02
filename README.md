@@ -1,5 +1,5 @@
 # Bookstore_Frontend
-# Bookstore_Backend
+
 ## Table of Content
 1. [ Description ](#desc)
 2. [ Planning ](#plann)
